@@ -1,1 +1,1 @@
-db
+db_password = 'amandaa97!'
