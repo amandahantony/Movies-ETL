@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Overview 
-In this project we performed the ETL (Extract, Transform, Load) process to extract movie data from Wikipedia and Kaggle, and load clean data into a movies PostgreSQL database. 
+In this project the ETL (Extract, Transform, Load) process was performed to extract movie data from Wikipedia and Kaggle, and load clean data into a movies PostgreSQL database. 
 
 ### Deliverable 1
 An ETL function was created to read three data files; Wikipedia data, Kaggle metadata and MovieLens ratings. From there, three dataframes were created.
